@@ -1,2 +1,2 @@
 const x = 10
-const y = 11
+const i = 70
